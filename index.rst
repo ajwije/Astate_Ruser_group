@@ -24,9 +24,9 @@ Objectives of the meeting:
 
 Who should participate:
 -------------------------------
-All R users. 
+* All R users. 
 
-Not an R user, but are interested in R.
+* Not an R user, but are interested in R.
 
 If you are interested in receiving emails about future meetings of the R User Group, please sign up for the listserv and indicate your general availability through the google form below.
 
