@@ -50,6 +50,15 @@ March 02
 
 
 This presentation will be perfect especially for new users. You are welcome to bring a laptop to follow along.
+
+* Jake is presenting at the first meeting:
+
+	.. figure:: photos/first_meeting.jpeg
+	
+* Jake's presentation and related material can be found `here <https://github.com/jake-steele/introToR>`_
+
+
+
   
 
 April 06
@@ -57,6 +66,13 @@ April 06
 **Presenter**: Alix Matthews
 
 **Title**: Making figures with ggplot
+
+* Alix's presentation and related material can be found `here <https://github.com/alixmatthews/RUG-ggplot-workshop>`_
+
+
+***Note***: Due to the COVID-19 pandemic, the meeting will be held via Zoom. If you would like to join please email Emily or Asela. 
+
+
 
 May 04
 ------------------
