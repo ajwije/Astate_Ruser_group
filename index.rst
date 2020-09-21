@@ -83,7 +83,14 @@ September 21
 
 **Title**: Introduction to building maps in R
 
+**Time**: Sep 21, 2020 12:00 PM Central Time (US and Canada)
+
+
 **Summary**: We will be discussing the basic data models and r packages needed to grasp a foundational understanding of building maps in R. The goal of this discussion is to have everyone comfortable with building static, animated, and interactive maps by the end.
+
+
+***Note***: Due to the COVID-19 pandemic, the meeting will be held via Zoom. If you would like to join please email Emily or Asela.
+
 
 =======================================
 
