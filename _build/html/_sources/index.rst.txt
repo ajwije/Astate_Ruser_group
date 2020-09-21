@@ -74,21 +74,16 @@ April 06
 
 
 
-May 04
-------------------
-
-**Presenter**: Brittany McCall
-
-**Title**: Making maps in R
 
 
-
-September 7
+September 21
 -----------------------
 
-**Presenter**: 
+**Presenter**: Brittany McCall 
 
-**Title**: 
+**Title**: Introduction to building maps in R
+
+**Summary**: We will be discussing the basic data models and r packages needed to grasp a foundational understanding of building maps in R. The goal of this discussion is to have everyone comfortable with building static, animated, and interactive maps by the end.
 
 
 October 5
