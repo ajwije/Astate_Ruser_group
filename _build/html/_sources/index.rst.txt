@@ -58,7 +58,7 @@ This presentation will be perfect especially for new users. You are welcome to b
 * Jake's presentation and related material can be found `here <https://github.com/jake-steele/introToR>`_
 
 
-
+================================
   
 
 April 06
@@ -72,7 +72,7 @@ April 06
 
 ***Note***: Due to the COVID-19 pandemic, the meeting will be held via Zoom. If you would like to join please email Emily or Asela. 
 
-
+===================================
 
 
 
@@ -85,6 +85,7 @@ September 21
 
 **Summary**: We will be discussing the basic data models and r packages needed to grasp a foundational understanding of building maps in R. The goal of this discussion is to have everyone comfortable with building static, animated, and interactive maps by the end.
 
+=======================================
 
 October 5
 ----------------
@@ -93,7 +94,7 @@ October 5
 
 **Title**: 
 
-
+===============================================
 
 November 02
 -------------------
@@ -102,7 +103,7 @@ November 02
 
 **Title**: 
 
-
+=============================================
 
 December 07
 ---------------------
