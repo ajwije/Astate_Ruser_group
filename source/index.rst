@@ -7,14 +7,11 @@ A-State R user group
 
 .. toctree::
    :numbered:
-   :maxdepth: 2
+   :maxdepth: 10
    :caption: Introductions and objectives
    
    Introduction.rst
-
-.. toctree::
-   :numbered:
-   :maxdepth: 2
+   
    :caption: Spring 2023
    
    week1.rst
