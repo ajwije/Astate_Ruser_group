@@ -30,6 +30,7 @@ release = '3/31/2023'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
+master_doc = 'index'
 extensions = []
 
 # Add any paths that contain templates here, relative to this directory.
