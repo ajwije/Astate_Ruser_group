@@ -21,7 +21,7 @@ March 27
 **Presenter**: Alix Matthew
 
 Basics of R`. Although this session is geared toward beginners, even intermediate/advanced users will likely learn something new.
-presentation and related material can be found: 
+presentation and related material can be found: `https://github.com/ajwije/Astate_Ruser_group/Files/SP23_meeting1`
 
 
 ================================
