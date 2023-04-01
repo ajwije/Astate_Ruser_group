@@ -22,12 +22,10 @@ March 27
 
 * `Presentation materials`_
 
-.. _Presentation materials: https://github.com/ajwije/Astate_Ruser_group/Files/SP23_meeting1.
+.. _Presentation materials: https://github.com/ajwije/Astate_Ruser_group/tree/master/Files/SP23_meeting1
 
 
 April 11
 ----------------
 
 [Insert presentation details]
-
-===================================
