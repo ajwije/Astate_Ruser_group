@@ -1,6 +1,6 @@
 .. module:: R users group
    :synopsis: Introductions and objectives 
-.. moduleauthor:: Asela Wijeratne<awijeratne@astate.edu> and Alix Matthew 
+.. moduleauthor:: Asela Wijeratne<awijeratne@astate.edu> and Alix Matthews<alix.matthews@smail.astate.edu> 
 
 .. index::
 
@@ -31,12 +31,17 @@ Who should participate:
 
 * Not an R user, but are interested in R.
 
-If you are interested in receiving emails about future meetings of the R User Group, please sign up for the listserv and indicate your general availability through the google form below.
+If you are interested in receiving emails about future meetings of the R User Group, please sign up for the listserv and indicate your general interest through the Google form below.
 
 * `Google form`_
 
-.. _Google form: https://docs.google.com/forms/d/e/1FAIpQLSfBBb3AUIW5MIQiri6sqMqu6fjUuPBTmPdfdMqiIbkwg-UgJg/viewform?vc=0&c=0&w=1
+.. _Google form: https://forms.gle/BRUxcq5FkMh7rTsU8
 
 Meetings
 ------------------------
-We will meet the first Monday of the month at 12 noon in 107 ABI. 
+We hold meetings approximately every other week. Below are our meetings for Spring 2023.
+
+* Tuesday, March 07 (3-4pm) in LSE 206
+* Tuesday, March 28 (3-4pm) in LSE 206
+* Tuesday, April 11 (3-4pm) in LSE 206
+* Tuesday, April 18 (3-4pm) in LSE 206

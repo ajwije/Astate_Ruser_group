@@ -1,4 +1,4 @@
-.. module:: R Users Group - Spring 2023
+.. module:: R Users Group
    :synopsis: Meetings and presentations for the R Users Group in Spring 2023.
 .. moduleauthor:: Asela Wijeratne<awijeratne@astate.edu> and Alix Matthew
 
