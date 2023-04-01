@@ -1,20 +1,24 @@
-.. R_user_grp documentation master file, created by
-   sphinx-quickstart on Fri Mar 31 20:04:09 2023.
+.. Bioinformatics and R User Group 
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to R_user_grp's documentation!
-======================================
+A-State R user group
+====================================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :numbered:
+   :maxdepth: 100
+   :caption: Introductions and objectives
+   
+   Introduction.rst
+
+	
 
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. toctree::
+   :numbered:
+   :maxdepth: 100
+   :caption: Spring 2023
+   
+   week1.rst
+   

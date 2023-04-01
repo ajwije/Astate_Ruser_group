@@ -17,12 +17,12 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'R_user_grp'
+project = 'R-user_grp'
 copyright = '2023, Asela Wijeratne'
 author = 'Asela Wijeratne'
 
 # The full version, including alpha/beta/rc tags
-release = '03312023'
+release = '3/31/2023'
 
 
 # -- General configuration ---------------------------------------------------
