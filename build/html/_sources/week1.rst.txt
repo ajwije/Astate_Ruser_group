@@ -49,3 +49,24 @@ Feel free to bring a data set that you want to "wrangle."
 * `Presentation materials meeting2`_
 
 .. _Presentation materials meeting2: https://github.com/ajwije/Astate_Ruser_group/tree/master/Files/SP23_meeting2
+
+
+
+April 18
+----------------
+
+**Presenter**: Zachary Campbell
+
+**Title**: an RMarkdown/data report journey
+
+**Description**: This session is geared toward ALL levels of R knowledge.
+
+* `Presentation materials meeting3`_
+
+.. _Presentation materials meeting3: https://github.com/ajwije/Astate_Ruser_group/tree/master/Files/SP23_meeting3
+
+.. image:: ../images/Zac_presentation.png
+  :width: 400
+  :alt: Zac reporting his report journey!
+
+--------------
