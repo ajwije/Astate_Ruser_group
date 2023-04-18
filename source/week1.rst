@@ -25,6 +25,10 @@ March 27
 .. _Presentation materials: https://github.com/ajwije/Astate_Ruser_group/tree/master/Files/SP23_meeting1
 
 
+------------------
+
+
+
 April 11
 ----------------
 
@@ -52,6 +56,11 @@ Feel free to bring a data set that you want to "wrangle."
 
 
 
+--------------
+
+
+
+
 April 18
 ----------------
 
@@ -68,5 +77,7 @@ April 18
 .. image:: ../images/Zac_presentation.png
   :width: 400
   :alt: Zac reporting his report journey!
+  
 
---------------
+
+
