@@ -15,3 +15,6 @@ A-State R user group
    :caption: Spring 2023
    week1.rst
    
+   :caption: Summer 2023
+   summer23.rst
+   
